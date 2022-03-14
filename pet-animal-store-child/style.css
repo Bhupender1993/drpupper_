@@ -1,0 +1,19 @@
+/**
+ * Theme Name:     Pet Animal Store Child
+ * Author:         ThemesCaliber
+ * Template:       pet-animal-store
+ * Text Domain:    pet-animal-store-child
+ * Description:    A pet WordPress Theme for all the pet shop owners &amp; dealers. This pet WordPress theme is for the people that are engaged in the business of dog grooming, hygiene, dog training, dog wash, puppy grooming, pet caretakers, cat grooming, pet training. It is a suitable multipurpose WordPress theme for veterinary doctors, pet shops, lovers, horse, fish collectors, cat grooming, bird watchers, Dog day care, Pet sitting, Pet photographer, aquarium, veterinary practices, Pet food and treats, Pet products and accessories, zoos, animal selling shops, anti tick shampoo, dog toys, pet adoption center, dog treats, wild life protection websites, dog and pet service provider, dog washing centre, pet health consultant, animal care centre, pet parlours, dog cleaning centre, animal food supplier, blogs about animals, dog walkers, equestrian, cat walkers, birds grooming, animal breeders, walking and training websites You can be engaged in any sort of business that’s segmented with pets, the theme will go well for you. It is built on Bootstrap 4 with a well built and structured layout. Its a highly responsive theme with a professional layout and design that is in sync with the meta WordPress versions. You can easily set up a good looking petshop website, store or anything that you wish. It is cross-browser and woocommerce compatible and is user &amp; SEO friendly. We do offer a long list of features with theme exclusive functionalities. Our customer support is best in the business; we will satisfy all your needs and requirements. Your website will work insanely fast, with a gorgeous well-structured layout and sticky posts. The theme has been made with the pet industry in the head and what would appeal to the customers. Your website traffic will improve and the users will stay in for a longer time because of better user experience. A faster, well-built functional website will only improve your business’s performance. Demo : https://www.themescaliber.com/pet-animal-store/
+ */
+
+
+body{
+  margin:0;
+  padding:0;
+  -ms-word-wrap:break-word;
+  word-wrap:break-word;
+  font-size: 15px;
+  color:#000;  
+  overflow-x: hidden;
+  font-family: Montserrat;
+}
